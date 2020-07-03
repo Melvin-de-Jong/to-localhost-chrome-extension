@@ -1,6 +1,6 @@
 # to-localhost-chrome-extension
 
-A simple chrome extension to redirect a url to the localhost variant.
+A simple chrome extension to redirect a url to the localhost:8888 variant.
 
 Usefull if you need to debug things on localhost.
 
